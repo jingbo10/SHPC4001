@@ -1,0 +1,3 @@
+write(*,*)"hi"
+stop
+end
